@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+	int num = ;
+	if (5 == num)
+		printf("123/n");
+	
+	else
+printf("456/n");
+	return 0;
+}
